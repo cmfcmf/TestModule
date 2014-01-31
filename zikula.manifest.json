@@ -3,7 +3,7 @@
         "title": "Super Widget - but by Christian Flach :O",
         "type": "m",
         "url": "http://www.acme.com/super-widget",
-        "icon": "http://www.acme.com/super-widget/icon.png"
+        "icon": "http://http://lorempixel.com/100/100/"
     },
     "version": {
         "semver": "1.2.3",
@@ -11,7 +11,7 @@
         "licenses": [
             {
                 "type": "MIT",
-                "url": "https://github.com/craigh/Nutin/LICENSE"
+                "url": "https://github.com/cmfcmf/TestModule/LICENSE"
             }
         ],
         "description": "See this cool version!!",
