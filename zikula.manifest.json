@@ -6,7 +6,7 @@
         "icon": "http://lorempixel.com/100/100/"
     },
     "version": {
-        "semver": "1.2.7",
+        "semver": "1.2.8",
         "compatibility": ">=1.4.0",
         "licenses": [
             {
