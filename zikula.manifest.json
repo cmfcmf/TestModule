@@ -6,8 +6,8 @@
         "icon": "http://lorempixel.com/100/100/"
     },
     "version": {
-        "semver": "1.2.9",
-        "compatibility": ">=1.4.0",
+        "semver": "1.2.10",
+        "compatibility": "~1.4",
         "licenses": [
             {
                 "type": "MIT",
