@@ -2,11 +2,11 @@
     "extension": {
         "title": "Super Widget - but by Christian Flach :O",
         "type": "m",
-        "url": "http://www.acme.com/super-widget",
+        "url": "https://github.com/cmfcmf/TestModule",
         "icon": "http://lorempixel.com/100/100/"
     },
     "version": {
-        "semver": "1.2.6",
+        "semver": "1.2.7",
         "compatibility": ">=1.4.0",
         "licenses": [
             {
