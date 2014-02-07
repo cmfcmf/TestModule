@@ -10,7 +10,7 @@
         "icon": "http://placehold.it/120x120.png"
     },
     "version": {
-        "semver": "1.0.11",
+        "semver": "1.0.12",
         "compatibility": ">=1.3.0",
         "composerpath": "Cmfcmf/OAuthModule/composer.json",
         "description": "This is a description out of the manifest file!"
