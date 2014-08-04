@@ -1,0 +1,15 @@
+{
+    "name": "cmfcmf/test-module",
+    "description": "This is the GitHub description of the repository",
+    "type": "zikula-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cmfcmf",
+            "role": "owner"
+        }
+    ],
+    "require": {
+        "php": ">5.3.3"
+    }
+}
